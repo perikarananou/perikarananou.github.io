@@ -10,8 +10,11 @@ github_username: perikarananou
 markdown: kramdown
 theme: minima
 
-permalink: pretty
+permalink: /:year/:month/:day/:title:output_ext
 
+Social:
+   - name: GitHub
+      link: https://github.com/perikarananou
 gems:
   - jekyll-feed
 exclude:
