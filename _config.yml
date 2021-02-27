@@ -13,7 +13,8 @@ theme: minima
 permalink: /:year/:month/:day/:title:output_ext
 
 Social:
-   - name: GitHub
+   - GitHub:
+     username: "perikarananou"
      link: https://github.com/perikarananou
 gems:
   - jekyll-feed
