@@ -2,6 +2,7 @@ title: My CV
 owner: Karananou Peristera
 email: p18kara4@ionio.gr
 description: Karananou Peristera    My CV
+baseurl: "" 
 url: " https://perikarananou.github.io/ " 
 language: Native Greek
 github_username: perikarananou
