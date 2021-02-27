@@ -10,7 +10,7 @@ github_username: perikarananou
 markdown: kramdown
 theme: minima
 
-permalink: /:year/:month/:day/:title/
+permalink: pretty
 
 gems:
   - jekyll-feed
