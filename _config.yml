@@ -2,7 +2,6 @@ title: My CV
 owner: Karananou Peristera
 email: p18kara4@ionio.gr
 description: Karananou Peristera    My CV
-baseurl: "" # the subpath of your site, e.g. /blog
 url: " https://perikarananou.github.io/ " 
 language: Native Greek
 github_username: perikarananou
@@ -10,7 +9,7 @@ github_username: perikarananou
 markdown: kramdown
 theme: minima
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title:/
 
 Social:
    - GitHub:
