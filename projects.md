@@ -4,4 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-On this site you can present projects you are working on or you have already finished. You can give short descriptions of the project here or create special project pages your can link here.
+
+### Scratch
+- [quiz game](https://scratch.mit.edu/projects/470977854/)
+- [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
